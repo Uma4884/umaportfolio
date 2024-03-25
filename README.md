@@ -1,2 +1,0 @@
-# umaportfolio
-umaportfolio setup
